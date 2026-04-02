@@ -1,5 +1,8 @@
+# 🎮 One More Tile
 
 # 🎮 One More Tile
+
+![Gameplay](image.png)
 
 My first 3D game built with Unity.
 
@@ -29,6 +32,10 @@ Most importantly, I started understanding how **game feel** changes the player e
 The goal of the game is simple:
 
 > Stay alive as long as possible while tiles fall around you.
+
+![Screenshot 1](image.png)
+![Screenshot 2](image2.png)
+![Screenshot 3](image3.png)
 
 ### Mechanics:
 - The player can move around the platform
